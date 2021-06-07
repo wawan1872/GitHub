@@ -1,0 +1,8 @@
+{
+    "name": "nanda/utsbpwl",
+    "description": "UTS BPWL",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
