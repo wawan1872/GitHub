@@ -80,7 +80,7 @@
 			<!-- Brand Logo -->
 			<a href="index.php" class="brand-link">
 				
-				<span class="brand-text"> KEPENDUDUKAN</span>
+				<span class="brand-text">WEB KEPENDUDUKAN</span>
 			</a>
 
 			<!-- Sidebar -->
