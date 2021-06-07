@@ -66,7 +66,7 @@
 				<li class="nav-item d-none d-sm-inline-block">
 					<a href="index.php" class="nav-link">
 						<font color="white">
-							<b>SISTEM INFORMASI DATA KEPENDUDUKAN</b>
+							<b>KEPENDUDUKAN</b>
 						</font>
 					</a>
 				</li>
